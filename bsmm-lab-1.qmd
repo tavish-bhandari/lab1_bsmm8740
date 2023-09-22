@@ -195,4 +195,6 @@ manager_summary <- mets_ben %>%
 
 # Print the manager summary
 manager_summary
+
+# Completed
 ```
